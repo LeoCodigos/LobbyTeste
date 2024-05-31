@@ -1,0 +1,4 @@
+repository "MeuLobby@QvemDiBaixo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
